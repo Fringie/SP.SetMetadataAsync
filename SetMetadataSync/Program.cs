@@ -10,7 +10,7 @@ namespace SetMetadataSync
     {
         static void Main(string[] args)
         {
-            Task<int> longRunningTask = LongRunningOperationAsync();
+            //Task<int> longRunningTask = LongRunningOperationAsync();
 
         }
 

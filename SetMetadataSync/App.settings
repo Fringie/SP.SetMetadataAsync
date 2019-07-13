@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SetMetadataSync" GeneratedClassName="App">
+  <Profiles />
+  <Settings>
+    <Setting Name="WebUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://chrysaorholdingsltd.sharepoint.com/sites/apps/cap-dev</Value>
+    </Setting>
+    <Setting Name="CopyToLibTitle" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Unique</Value>
+    </Setting>
+    <Setting Name="CopyFromLibTitle" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Duplicates</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

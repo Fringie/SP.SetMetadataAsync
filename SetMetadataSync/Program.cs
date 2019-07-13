@@ -10,8 +10,9 @@ namespace SetMetadataSync
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("{0} Starting app..", DateTime.Now);
             Engine e = new Engine();
-            e.Main();
+            e.Start();
             Console.ReadKey();
         }
 
